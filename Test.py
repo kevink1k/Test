@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 import schedule
 from datetime import datetime
 import pyodbc as odbc
+#Git test
 #SQL Information
 Driver = "ODBC Driver 17 for SQL Server"
 Server_name = 'LAPTOP-36NUUO53\SQLEXPRESS'
