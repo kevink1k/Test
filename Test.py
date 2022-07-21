@@ -5,6 +5,7 @@ import schedule
 from datetime import datetime
 import pyodbc as odbc
 #Git test
+#CHANGE FROM REMOTE REPO
 #SQL Information
 Driver = "ODBC Driver 17 for SQL Server"
 Server_name = 'LAPTOP-36NUUO53\SQLEXPRESS'
